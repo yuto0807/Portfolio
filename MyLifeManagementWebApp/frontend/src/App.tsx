@@ -1,5 +1,5 @@
 function App() {
-  return <>hoge</>;
+	return <>hoge</>;
 }
 
 export default App;
